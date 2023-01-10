@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Bruno Maia</h1>
-<h3 align="center">A passionate frontend developer from Brazil living in Germany</h3>
+<h3 align="center">I am a full-stack web developer based in Essen, Germany</h3>
 
+- 💻 Javascript ecossystem
 
-- 🔭 I’m currently looking for **professional experience as a full stack developer**
+- 📚 Background in Public Relations and Business Development  
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Git, React**
+- 🇧🇷 I’m from Brazil
 
-- 💬 Ask me about **JavaScrip, React**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, typescript, React**
 
-- 📫 How to reach me **brunoom.ipms@gmail.com**
+### :hammer_and_wrench: Languages and Tools :
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://de.linkedin.com/in/bruno-oliveira-maia/en" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bruno-oliveira-maia/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+
+---
+
+Feel free to send me a message on [Linkedin](https://de.linkedin.com/in/bruno-oliveira-maia/en) or at brunoom.ipms@gmail.com ☕️
