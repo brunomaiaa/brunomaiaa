@@ -7,7 +7,7 @@
 
 - 🇧🇷 I’m from Brazil
 
-- 🌱 I’m currently learning ** React, typescript, Angular**
+- 🌱 I’m currently learning ** React, typescript, Angular **
 
 ### :hammer_and_wrench: Languages and Tools :
 
